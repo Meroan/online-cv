@@ -16,10 +16,10 @@
   </div><!--//intro-->
   {% endif %}
   
-  {% if projects.summary %}
-   <div class="summary">
-     {{ projects.summary | markdownify }}
-  </div><!--//summary-->
+  {% if projects.note %}
+   <div class="note">
+     {{ projects.note | markdownify }}
+  </div><!--//note-->
   {% endif %}
 
   {% for project in projects.assignments %}
