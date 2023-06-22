@@ -15,6 +15,12 @@
       <p>{{ projects.intro }}</p>
   </div><!--//intro-->
   {% endif %}
+  
+  {% if projects.summary %}
+   <div class="summary">
+     {{ projects.summary | markdownify }}
+  </div><!--//summary-->
+  {% endif %}
 
   {% for project in projects.assignments %}
     <div class="item">
