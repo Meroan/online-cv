@@ -15,7 +15,7 @@ sidebar:
     email: timlexow@gmail.com
     phone: -
     timezone: Berlin/Europe
-    citizenship:
+    citizenship: German
     
    #website: blog.webjeda.com #do not add http://
     linkedin: timlexow
@@ -61,8 +61,8 @@ career-profile:
 education:
     title: |
     info:
-      - degree: |
-        university: |
+      - degree: Informatik/ Softwaretechnik, B.Sc. (without degree)
+        university: TH Lübeck
         time: |
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -72,9 +72,9 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+      - degree: GCE with a major in IT Technology and advanced level German as the main subject.
+        university: technical college Emil-Possehl-Schule, Lübeck
+        time: 08/2015 – 05/2019
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -87,7 +87,7 @@ experiences:
     title: Experiences
     info:
       - role: Systen Engineer
-        time: 06/2022 - Present
+        time: 07/2022 - 08/2023
         company: Albert Bauer Companies, Hamburg, Germany
         details:
           Manage and maintain company servers, including updates and backups.
@@ -98,9 +98,9 @@ experiences:
           Manage and maintain inventory of hardware and software licenses.
           Develop and maintain disaster recovery plans and procedures to ensure business continuity in the event of an unexpected outage.
           Communicate and coordinate with external vendors and service providers to resolve issues and ensure smooth operation of company technology systems.
-      - role: Systen Engineer 
-        time: |
-        company: |
+      - role: Vocational training as a Technology Specialist (Systems Integration focus) with primary focus on IT Support Consulting
+        time: 08/2020 - 06/2022
+        company: Prevolution GmbH & Co. KG , Hamburg
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -109,9 +109,9 @@ experiences:
           pellentesque eu, pretium quis, sem.
             - Bullet point
             - Bullet point
-      - role: IT - Systen Administrator 
-        time: |
-        company: |
+      - role: Vocational training as a Technology Specialist (Systems Integration focus) with primary focus on IT Support Consulting
+        time: 09/2019 – 07/2020
+        company: Scharff Digitale Archivierung , Lübeck
         details: |
           Manage and maintain company servers, including updates and backups.
           Develop and implement network security protocols to prevent unauthorized access to sensitive company data.
@@ -128,7 +128,7 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: |
+      - title: System Engineer bei Prevolution
         link: "#hook"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
@@ -144,7 +144,7 @@ projects:
         link: "#"
         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-      - title: |
+      - title: System Engineer bei Prevolution
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
         
